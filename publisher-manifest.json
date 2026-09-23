@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "31d7e7385db17ae75a5dfb74",
+  "owner": "vwuubtacf",
+  "repo": "page-74cbf48068d1e04831b05599",
+  "title": "一云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74cbf48068d1e04831b05599",
+      "a": "一云梯",
+      "b": "2027最新官网",
+      "entity": "一云梯",
+      "brand": "一云梯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "645081270263c4dcb11e686fa930e86a7754ae69e8f1e87618fa8062d2117220",
+      "content": {
+        "primary_entity": "一云梯",
+        "keyword1": "一云梯",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选对应客户端，按各自文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端教程导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐配订阅",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期展开，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线节点，适合流媒体与游戏加速；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 高带宽节点与定制路由。可按月付费，也可选年付节省支出。",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小和付费周期三个角度比较套餐。",
+          "AI_FEATURES_TITLE": "套餐选购要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，先确认常用设备数量再选档位。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，按日常用量挑选更合适。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按设备数选",
+          "AI_FEATURE_TITLE_2": "看流量档位",
+          "AI_FEATURE_TITLE_3": "比付费周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按三步操作即可。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_HERO_INTRO": "一云梯提供多档海外加速套餐，覆盖基础到团队场景。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。可按月或按年订阅，按设备系统选择客户端导入即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选，设备订阅轻松配",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付更省，长期使用更划算",
+          "AI_HIGHLIGHT_3": "按设备系统选客户端配订阅",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。流量与设备数随档位提升，可按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端适配要求，查看订阅配置说明。",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅，连接节点后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "一云梯套餐与订阅配置",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。设备数量按同时在线计算，家人或团队共用建议选择更高档位。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量按月重置，日常浏览、视频和游戏按实际使用量估算即可。",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体；旗舰版全节点原生流媒体解锁，并针对游戏做了 IPLC 专线优化；团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "按自己的设备系统选择客户端，导入订阅后自动获取节点。同一账号在套餐限定的设备数内可多端登录，超出数量需升级。",
+          "AI_FAQ_ANSWER_5": "可以。年付方案比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用建议直接选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "不同套餐的节点有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何选择适合自己的客户端？",
+          "AI_FAQ_QUESTION_5": "可以按年付费吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhilianyunclash.com",
+    "host": "zhilianyunclash.com"
+  },
+  "file_hashes": {
+    "index.html": "f1682440e5f6354ab333971bdfef1102587fe4a8bfd76268392b659db5923006",
+    "sitemap.xml": "036fb78b2c8d54f8e8cebbe85ea7ad42fb162d603978747d54f5a18a06430929",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d0f46f08848cb36092a3edc070f28224f97d671670fcc4bdf4002146b8a66e07",
+    "robots.txt": "0807fa0cd9208e36d567413a0e16d74236bf07aa4e302588548a9b5c8610a0ac",
+    "8efdea8baf0cbfebe869ed2818827921.txt": "13798e400ce883d6e31317ac496c41ca704c7044ce9cf9b5dd1125e6a985508b"
+  },
+  "revision": "5ee271d922cc5360ccd4014e5a322516f7cf5e2ff71eb0b455a8f3cf38a7cc0c"
+}
